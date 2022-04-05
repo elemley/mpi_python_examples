@@ -1,0 +1,178 @@
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+NameError: name 'sub_sums' is not defined
+Traceback (most recent call last):
+  File "scatter2.py", line 30, in <module>
+    comm.Gather([sub_sums,MPI.DOUBLE], [summ,MPI.DOUBLE])
+  File "mpi4py/MPI/Comm.pyx", line 588, in mpi4py.MPI.Comm.Gather
+  File "mpi4py/MPI/msgbuffer.pxi", line 506, in mpi4py.MPI._p_msg_cco.for_gather
+  File "mpi4py/MPI/msgbuffer.pxi", line 452, in mpi4py.MPI._p_msg_cco.for_cco_recv
+  File "mpi4py/MPI/msgbuffer.pxi", line 154, in mpi4py.MPI.message_simple
+  File "mpi4py/MPI/msgbuffer.pxi", line 93, in mpi4py.MPI.message_basic
+  File "mpi4py/MPI/asbuffer.pxi", line 300, in mpi4py.MPI.getbuffer
+  File "mpi4py/MPI/asbuffer.pxi", line 138, in mpi4py.MPI.PyMPI_GetBuffer
+BufferError: scalar buffer is readonly
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[19067,1],29]
+  Exit code:    1
+--------------------------------------------------------------------------

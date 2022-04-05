@@ -1,0 +1,171 @@
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+  File "scatter2.py", line 30
+    comm.Gather([summ,MPI.DOUBLE],sub_sums,MPI.DOUBLE])
+                                                     ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[18666,1],20]
+  Exit code:    1
+--------------------------------------------------------------------------

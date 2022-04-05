@@ -1,0 +1,14 @@
+scatter.py:16: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  A = np.arange(N, dtype=np.float)
+scatter.py:20: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  my_A = np.empty(N_core, dtype=np.float)
+Traceback (most recent call last):
+  File "scatter.py", line 22, in <module>
+    comm.Scatter([A,MPI.DOUBLE], [my_A,MPI.DOUBLE])
+  File "mpi4py/MPI/Comm.pyx", line 613, in mpi4py.MPI.Comm.Scatter
+  File "mpi4py/MPI/msgbuffer.pxi", line 538, in mpi4py.MPI._p_msg_cco.for_scatter
+  File "mpi4py/MPI/msgbuffer.pxi", line 436, in mpi4py.MPI._p_msg_cco.for_cco_send
+  File "mpi4py/MPI/msgbuffer.pxi", line 203, in mpi4py.MPI.message_simple
+ValueError: message: cannot infer count, number of entries 500 is not a multiple of required number of blocks 40
