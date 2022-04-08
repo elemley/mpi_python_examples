@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name=runa
-#SBATCH --output=runa-%j.out
+#SBATCH --output=./out_err_slurm/runa-%j.out
 #SBATCH --partition=general
-#SBATCH --nodes=2
+#SBATCH --nodes=5
 #SBATCH --ntasks-per-node=20
 
 ###Load wanted modules here
@@ -13,7 +13,7 @@ module load OpenMPI/4.0.5-GCC-10.2.0
 #place the base file name for your python code here
 file=scatter_gather
 
-mpirun -n 40 --mca mtl psm python $file.py > $file.out
+mpirun -n 100 --mca mtl psm python $file.py > ./output/$file.out
 
 
 

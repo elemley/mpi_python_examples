@@ -8,7 +8,7 @@ name=MPI.Get_processor_name()
 
 comm.Barrier()
 start = MPI.Wtime()
-N_cores = 40
+N_cores = 100
 N = N_cores*2000
 N_per_core = N // N_cores
 
